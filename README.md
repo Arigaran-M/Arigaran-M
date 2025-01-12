@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsfuosdev&psig=AOvVaw1H0KxPuBcgpCZDONSCp6vD&ust=1736769688691000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODR-7eR8IoDFQAAAAAdAAAAABBA)]
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm Arigaran M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
