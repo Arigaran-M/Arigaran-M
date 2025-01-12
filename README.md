@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arigaran-m&show_icons=true&locale=en&layout=compact" alt="arigaran-m" width="467" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arigaran-m&show_icons=true&locale=en" alt="arigaran-m" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arigaran-m&show_icons=true&locale=en" alt="arigaran-m" width="467" /></p>
 
 
