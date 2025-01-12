@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Arigaran M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arigaran-m&label=Profile%20views&color=0e75b6&style=flat" alt="arigaran-m" /> </p>
-
-
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
@@ -16,6 +15,8 @@
 - 📄 Know about my experiences [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f65391a2-c8a9-48d6-ab86-a0f092f139f3)
 
 - ⚡ Fun fact **I Believe in 'Hello, World' as the Best Way to Start Anything New**
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arigaran-m" alt="arigaran-m" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -44,5 +45,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arigaran-m&show_icons=true&locale=en&layout=compact" alt="arigaran-m" width="410" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arigaran-m&show_icons=true&locale=en" alt="arigaran-m" width="410" /></p>
-
 
